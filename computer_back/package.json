@@ -1,0 +1,25 @@
+{
+  "name": "computer_back",
+  "version": "1.0.0",
+  "description": "The back end of computer management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiaowang",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.0.0",
+    "koa2-cors": "^2.0.6",
+    "mongoose": "^5.12.10",
+    "nodejs-websocket": "^1.7.2",
+    "serialport": "^9.2.0",
+    "ws": "^7.4.5"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.3",
+    "utf-8-validate": "^5.0.5"
+  }
+}

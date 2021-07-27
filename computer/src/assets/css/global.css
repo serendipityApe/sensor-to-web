@@ -1,0 +1,15 @@
+/* 全局样式表 */
+html,
+body,
+#app {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  overflow: auto;
+  /* min-width: 1366px; */
+}
+a {
+  text-decoration: none;
+  list-style: none;
+}
